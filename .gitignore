@@ -1,0 +1,13 @@
+build-clamav/
+out/
+out-pdf/
+out-archive/
+findings/
+*.tar.gz
+*.zip
+*.7z
+*.rar
+*.o
+*.so
+*.a
+core
